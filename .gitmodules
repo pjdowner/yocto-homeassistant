@@ -4,3 +4,6 @@
 [submodule "layers/meta-openembedded"]
 	path = layers/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "layers/meta-homeassistant"]
+	path = layers/meta-homeassistant
+	url = https://github.com/meta-homeassistant/meta-homeassistant.git
